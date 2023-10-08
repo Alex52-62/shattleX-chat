@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242578470974",
+    "project_id": "shuttlex-e2c46",
+    "storage_bucket": "shuttlex-e2c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242578470974:android:f1a4113f7f1170f64e396f",
+        "android_client_info": {
+          "package_name": "com.shuttlex.chats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVL_RjwdQr09_B1AETv7bMgmpgsijtW_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
