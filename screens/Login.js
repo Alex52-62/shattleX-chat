@@ -91,7 +91,9 @@ const styles = StyleSheet.create({
         position: "absolute",
         bottom: 0,
         backgroundColor: '#fff',
+        opacity: 0.5,
         borderTopLeftRadius: 60,
+        borderTopRightRadius: 60,
     },
     form: {
         flex: 1,
