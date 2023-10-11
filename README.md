@@ -62,4 +62,4 @@ Requirements:
 - There is at least 1 unit test (it’s up to you which library for testing you want to use) - no, but possible - look my example testing - https://github.com/Alex52-62/HW_React_ls10/tree/HW_React_lesson10;
 - Clean code - no, need more time for refactoring (because I use alien ready project );
   
-
+Component Chats in screen folder don't work correct and waiting for correction.
