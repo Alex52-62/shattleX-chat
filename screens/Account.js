@@ -14,7 +14,12 @@ const Account = ({ navigation }) => {
     };
 
     const deleteAccount = () => {
-        deleteUser(auth?.currentUser).catch(error => console.log('Error deleting: ', error));
+        deleteUser(auth?.currentUser)
+            .then(() => {console.log('User deleted') 
+            })
+            .catch((error) => {
+                console.log('Error deleting: ', error)
+            });
         deleteDoc(doc(database, 'users', auth?.currentUser.email));
     };
 
